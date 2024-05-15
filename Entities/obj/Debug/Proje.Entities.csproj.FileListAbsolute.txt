@@ -1,0 +1,13 @@
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\Proje.Entities.dll.config
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\Proje.Entities.dll
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\Proje.Entities.pdb
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\EntityFramework.dll
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\Mono.Security.dll
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\EntityFramework.xml
+C:\Users\msi\source\repos\MelihProje\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msi\source\repos\MelihProje\Entities\obj\Debug\Proje.Entities.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\MelihProje\Entities\obj\Debug\Proje.Entities.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\MelihProje\Entities\obj\Debug\Proje.En.C100B2CD.Up2Date
+C:\Users\msi\source\repos\MelihProje\Entities\obj\Debug\Proje.Entities.dll
+C:\Users\msi\source\repos\MelihProje\Entities\obj\Debug\Proje.Entities.pdb
